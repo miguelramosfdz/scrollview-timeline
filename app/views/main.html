@@ -1,0 +1,7 @@
+<fa-app style="width: 100%; height: 100%;">
+<fa-scroll-view fa-options="{direction: 1}" fa-pipe-from="scrollEvents" fa-start-index="0">
+    <fa-surface fa-size="[undefined, 200]" fa-background-color="color" ng-repeat="color in colors" fa-pipe-to="scrollEvents">
+      <div style="font-size: 100px; color: white; text-align: center; line-height: 200px; font-family: sans-serif;">{{$index}}</div>
+    </fa-surface>
+  </fa-scroll-view>
+</fa-app>
