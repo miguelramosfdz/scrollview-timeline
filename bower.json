@@ -7,7 +7,8 @@
     "es5-shim": "~2.1.0",
     "famous-angular": "breck421/famous-angular#Famous-030",
     "lodash": "~2.4.1",
-    "randomColor": "~0.1.1"
+    "randomColor": "~0.1.1",
+    "famous-global": "http://code.famo.us/famous/0.3.0/famous-global.js"
   },
   "devDependencies": {
     "angular-mocks": "1.2.15",
