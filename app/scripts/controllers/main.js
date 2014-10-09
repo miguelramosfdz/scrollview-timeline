@@ -9,4 +9,5 @@ angular.module('scrollviewTestApp')
 
     $scope.colors = _.map(_.range(50), randomColor);
 
+
   });
