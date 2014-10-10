@@ -9,8 +9,8 @@ angular
       controller: 'MainCtrl',
     })
     .when('/stack', {
-      templateUrl: 'stack.html',
-      controller: 'StackController'
+      templateUrl: 'views/stack.html',
+      controller: 'StackCtrl'
     });
 
     // configure html5 to get links working on jsfiddle
