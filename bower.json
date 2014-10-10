@@ -8,13 +8,14 @@
     "famous-angular": "breck421/famous-angular#Famous-030",
     "lodash": "~2.4.1",
     "randomColor": "~0.1.1",
-    "famous-global": "http://code.famo.us/famous/0.3.0/famous-global.js"
+    "famous-global": "http://code.famo.us/famous/0.3.0/famous-global.js",
+    "angular-route": "~1.2.26"
   },
   "devDependencies": {
     "angular-mocks": "1.2.15",
     "angular-scenario": "1.2.15"
   },
   "resolutions": {
-    "angular": "1.2.22"
+    "angular": "1.2.26"
   }
 }
